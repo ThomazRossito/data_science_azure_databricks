@@ -1,4 +1,4 @@
-# Curso Microsoft - Ciência de Dados com Azure Databricks
+# Microsoft - Ciência de Dados com Azure Databricks
 
 Aprenda como aproveitar o poder do Apache Spark e poderosos clusters em execução na plataforma Azure Databricks para executar cargas de trabalho para ciência de dados na nuvem.
 
