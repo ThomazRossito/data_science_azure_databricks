@@ -79,4 +79,4 @@ Aprenda a usar o MLflow e o serviço de aprendizado de máquina do Azure, regist
 
 <br>
 
-<b>Fonte:</b> [Data Science Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/)
+<b>Fonte:</b> [Ciência de Dados com Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/)
